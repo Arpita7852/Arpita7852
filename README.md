@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Hi, I'm Arpita 👋
 
 🎯 Data Analyst | MCA Graduate (CDAC Noida)
