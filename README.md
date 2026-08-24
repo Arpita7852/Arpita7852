@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Arpita7852/Arpita7852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Arpita 👋
 
-Here are some ideas to get you started:
+🎯 Data Analyst | MCA Graduate (CDAC Noida)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I turn raw data into insights using SQL and Python. Currently focused on 
+building end-to-end analytics projects — from data cleaning to dashboards.
+
+**🛠️ Skills & Tools**
+- Languages: SQL, Python (Pandas, NumPy, Matplotlib), Tableau
+- Environment: JupyterLab, VS Code, PostgreSQL, Tableau
+
+**📂 Featured Projects**
+- 🔹 [Telecom Churn Prediction](link-to-repo) — Predicting customer churn using classification models
+- 🔹 [Zepto SQL Analysis](link-to-repo) — Business insights from order data using SQL
+- 🔹 [Churn Prediction Dashboard](link-to-repo) — Interactive dashboard for churn insights
+
+**📫 Let's Connect**
+- LinkedIn: [your link]
+- Email: [arpitapriyadarsani2001@gmail.com]
