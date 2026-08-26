@@ -6,8 +6,9 @@ I turn raw data into insights using SQL and Python. Currently focused on
 building end-to-end analytics projects — from data cleaning to dashboards.
 
 **🛠️ Skills & Tools**
-- Languages: SQL, Python (Pandas, NumPy, Matplotlib), Tableau
-- Environment: JupyterLab, VS Code, PostgreSQL, Tableau
+- Languages: SQL, Python (Pandas, NumPy, Matplotlib)
+- Visualization: Tableau
+- Environment: JupyterLab, VS Code, PostgreSQL
 
 **📂 Featured Projects**
 - 🔹 [Telecom Churn Prediction](link-to-repo) — Predicting customer churn using classification models
