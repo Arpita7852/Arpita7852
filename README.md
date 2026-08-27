@@ -17,5 +17,5 @@ building end-to-end analytics projects — from data cleaning to dashboards.
 - 🔹 [Netflix Content Analysis](https://public.tableau.com/app/profile/arpita.priyadarsani.sethi/viz/Book5_17852427168240/Dashboard1) —   Content trend analysis using Tableau
 
 **📫 Let's Connect**
-- LinkedIn: [your link]
+- LinkedIn: [linkedin.com/in/arpita-sethi-data-analyst]
 - Email: [arpitapriyadarsani2001@gmail.com]
