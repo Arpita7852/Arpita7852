@@ -14,6 +14,7 @@ building end-to-end analytics projects — from data cleaning to dashboards.
 - 🔹 [Telecom Churn Prediction](link-to-repo) — Predicting customer churn using classification models
 - 🔹 [Zepto SQL Analysis](link-to-repo) — Business insights from order data using SQL
 - 🔹 [Churn Prediction Dashboard](link-to-repo) — Interactive dashboard for churn insights
+- 🔹 [Netflix Content Analysis](https://public.tableau.com/app/profile/arpita.priyadarsani.sethi/viz/Book5_17852427168240/Dashboard1) —   Content trend analysis using Tableau
 
 **📫 Let's Connect**
 - LinkedIn: [your link]
